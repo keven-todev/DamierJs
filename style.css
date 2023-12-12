@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+span{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #000;
+    display: inline-block;
+    text-align: center;
+}
